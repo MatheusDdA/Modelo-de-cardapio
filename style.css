@@ -11,7 +11,7 @@ body {
     flex-direction: column;
     align-items: center;
 
-    height: 95vh;
+    height: 100%;
 }
 
 .up {
@@ -37,13 +37,13 @@ body {
 
 .titulo1 {
     color: #604435;
-    font-size: 6vh;
+    font-size: 5vh;
     margin: 16px;
 }
 
 .titulo2 {
     color: #604435;
-    font-size: 5vh;
+    font-size: 4vh;
     margin: 16px;
 }
 
