@@ -11,7 +11,7 @@ body {
     flex-direction: column;
     align-items: center;
 
-    height: 92vh;
+    height: 90vh;
 }
 
 .up {
@@ -105,8 +105,8 @@ span {
 
 .lista-comida {
     overflow-y: scroll;
-    margin-left: 8px;
-    width: calc(100% - 8px);
+    margin-left: 12px;
+    width: calc(100% - 12px);
 }
 
 ::-webkit-scrollbar {
